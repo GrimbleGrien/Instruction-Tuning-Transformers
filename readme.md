@@ -33,4 +33,8 @@ python label_matcher.py \
     --test_dataset "dataset_instruct/test_instruct.csv"
 ```
 
-Stay tuned for more customizations and guides :)
+Stay tuned for more customizations and guides. In the meantime feel free to clone this repo in colab and experiment yourself :)
+
+<a target="_blank" href="https://colab.research.google.com/github/GrimbleGrien/Instruction-Tuning-Transformers/blob/main/instruction_tuning.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
