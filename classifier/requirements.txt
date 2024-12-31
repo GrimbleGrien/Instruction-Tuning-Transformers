@@ -1,0 +1,8 @@
+pandas
+tweet-preprocessor
+transformers
+datasets
+peft
+torch
+scikit-learn
+sentence-transformers
